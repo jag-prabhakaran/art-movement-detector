@@ -1,0 +1,8 @@
+datasets
+flask
+huggingface-hub
+numpy
+torch
+torchvision
+transformers
+wandb
